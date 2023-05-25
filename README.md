@@ -1,7 +1,8 @@
-# medias_QC
+## medias_QC
+
+Projet de ML pour classer les médias québécois selon leur tendance gauche/droite
 
 ### Étapes
-Projet de ML pour classer les médias québécois selon leur tendance gauche/droite
 
 Le classement d'un texte sur le spectre politique de gauche à droite est une tâche complexe, mais certainement réalisable avec SpaCy et d'autres outils de machine learning. Pour ce faire, vous auriez besoin de créer un modèle de classification de texte. Voici les étapes générales pour aborder ce problème :
 
